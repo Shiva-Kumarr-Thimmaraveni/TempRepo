@@ -22,6 +22,14 @@ Use the Below Commands for Creating [Vite Development Setup](https://vitejs.dev/
 npm create vite@latest [project_name]
 ```
 
+## Lucid-React Dependency Setup 
+
+Use the Below Commands for Creating [Lucid-React](https://lucide.dev/guide/packages/lucide-react).
+
+```bash
+npm install lucide-react
+```
+
 ## Tailwind CSS Setup
 
 Use the Below Commands for Creating [Tailwind CSS](https://tailwindcss.com/docs/guides/vite) for Additional Styling for Recat JS Applications.
